@@ -1,7 +1,8 @@
-# React + Vite
+
 # Todo-List
 
 This a Todo List that stores all the data locally 
+created using react and context api
 
 # Functionalities
 
